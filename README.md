@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Desafio é recriar uma aplicação, a partir de um layout
 
 - [Acesse o projeto finalizado, online](https://brunobianchi13.github.io/Desafio-RecriandoLayout/)
 - [Acesse o Layout no Figma](https://https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate)
